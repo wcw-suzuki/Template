@@ -1784,6 +1784,7 @@ tags
 [._]*.un~
 
 ### VisualStudioCode ###
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -1853,6 +1854,7 @@ wp-config.php
 
 # Example themes
 /wp-content/themes/twenty*/
+**/twenty*/
 
 # Example plugin
 /wp-content/plugins/hello.php
