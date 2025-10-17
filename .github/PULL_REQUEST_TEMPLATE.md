@@ -6,8 +6,8 @@
 - [develop](?expand=1&template=develop.md)
 - [topic](?expand=1&template=topic.md)
 
-### テンプレートを手動で貼り付け
-選択前に作成ボタンを押した場合など、テンプレートを手動で貼り付ける場合は、以下リンクから対応するテンプレートを貼り付け
+### テンプレートを手動貼り付け
+選択前に作成ボタンを押した場合、以下リンクから対応するテンプレートを手動で貼り付ける
 
 - feature
   - https://github.com/wcw-suzuki/Template/blob/main/.github/PULL_REQUEST_TEMPLATE/feature.md
