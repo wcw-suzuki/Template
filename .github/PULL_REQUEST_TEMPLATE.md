@@ -1,17 +1,17 @@
-## 概要
-<!-- 箇条書きで書く -->
-<!-- hogeAPIのエンドポイント追加 -->
+# !!作成ボタンを押下する前にテンプレートを選択!!
 
-***
+`Preview`タブから対応するリンクを押下するとテンプレートが適用されます。
 
-## 動作確認
-- [x] ユニットテストが既存含めて全部OK
-- 実装イメージ
-<!-- 実装のイメージやスクリーンショット貼る -->
+- [feature](?expand=1&template=feature.md)
+- [develop](?expand=1&template=develop.md)
+- [topic](?expand=1&template=topic.md)
 
-***
+### テンプレートを手動で貼り付け
+選択前に作成ボタンを押した場合など、テンプレートを手動で貼り付ける場合は、以下リンクから対応するテンプレートを貼り付け
 
-## 補足
-- [x] 関連事項や本PRの前提マージがあるか
-  - あれば記載 
-- [x] issueがクローズできる状況か
+- feature
+  - https://github.com/wcw-suzuki/Template/blob/main/.github/PULL_REQUEST_TEMPLATE/feature.md
+- develop
+  - https://github.com/wcw-suzuki/Template/blob/main/.github/PULL_REQUEST_TEMPLATE/develop.md
+- topic
+  - https://github.com/wcw-suzuki/Template/blob/main/.github/PULL_REQUEST_TEMPLATE/topic.md
